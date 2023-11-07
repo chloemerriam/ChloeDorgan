@@ -1,0 +1,59 @@
+.topnav {
+    overflow: hidden;
+    background-color: #0E1C3C;
+    }
+
+    .topnav a {
+    float: left;
+    color: #FFE9BD;
+    text-align: center;
+    padding: 18px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    }
+
+    .topnav a:hover {
+    background-color: #FFE9BD;
+    color: #0E1C3C;
+    }
+
+    .text-logo {
+    background-color: #0E1C3C;
+    color: #FFE9BD;
+    font-size: 20px;
+    }
+
+    body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color:#0E1C3C
+    }
+
+    h1, html {
+    height: 100%;
+    margin: 0;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color:#0E1C3C
+    }
+
+    h2, html {
+        height: 100%;
+        margin: 0;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color:#0E1C3C
+        }
+
+    h3, html {
+        height: 100%;
+        margin: 0;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color:#0E1C3C
+        }
+
+     h4, html {
+            height: 100%;
+            margin: 0;
+            font-family: Georgia, Times, 'Times New Roman', serif;
+            color:#0E1C3C
+            }
